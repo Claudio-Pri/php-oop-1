@@ -6,8 +6,10 @@ Oggi pomeriggio ripassate i primi concetti di classe, variabili e metodi d'istan
    => all'interno della classe è definito un costruttore
    => all'interno della classe è definito almeno un metodo
 - vengono istanziati almeno due oggetti 'Movie' e stampati a schermo i valori delle relative proprietà
+
 Bonus 1:
 Modificare la classe Movie in modo che accetti piú di un genere.
+
 Bonus 2:
 Creare un layout completo per stampare a schermo una lista di movies.
 Facciamo attenzione all'organizzazione del codice, suddividendolo in appositi file e cartelle. Possiamo ad esempio organizzare il codice
